@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+	<user type="admin">
+		<username>James</username>
+		<password>James@12</password>
+	</user>
+	<user type="customer">
+		<username>Kevin</username>
+		<password>Kevin@12</password>
+	</user>
+</users>
